@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kamalch35491016" target="blank"><img src="https://img.shields.io/twitter/follow/kamalch35491016?logo=twitter&style=for-the-badge" alt="kamalch35491016" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 Now I am learning **Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
